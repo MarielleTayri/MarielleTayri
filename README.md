@@ -1,7 +1,7 @@
  Hi there 👋
  
 -  I'm a fullstack developer 💜 Ruby on rails - React
--  I also manage with other programming languages 
+-  I also know stuff about other programming languages🙄
 - 🔭 I’m currently working on an mobile App for Pure Ocean
 - 🌱 I’m currently learning UI design
 - 👩‍🎓 le Wagon Alumni batch #1150
