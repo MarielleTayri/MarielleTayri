@@ -1,6 +1,6 @@
  Hi there 👋
  
--  I'm a fullstack developer 💜 Ruby on rails - React
+-  I'm a fullstack developer 💚 Ruby on rails - React
 -  I also know stuff about other programming languages🙄
 - 🔭 I’m currently working on an mobile App for Pure Ocean
 - 🌱 I’m currently learning UI design
